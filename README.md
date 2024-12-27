@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nour-madkor
-- 👀 I’m interested in machine learning and cats
-- 🌱 I’m currently learning OOP in java
+- 👀 I’m interested in AI and cats
+- 🌱 I’m currently learning NLP and Computer Vision
 - 📫 How to reach me : nour.madkor.1@gmail.com
 
 <!---
